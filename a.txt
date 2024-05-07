@@ -1,1 +1,4 @@
 Desenvolvendo nova consulta para vagas
+diff
+de 
+arquivo
